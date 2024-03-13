@@ -2,7 +2,7 @@
 
 <!-- <img src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" width="270" height = "220"> -->
 
-Hey! **Bhumika** this side! 😊 <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35px">
+Hey! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35px"> **Bhumika** this side! 😊
 
 Out of the huge bundle of chaos that I am, I am also -
 
