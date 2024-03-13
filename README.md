@@ -12,5 +12,5 @@ Out of the huge bundle of chaos that I am, I am also -
 
 I am really excited to get to know you! 🤗
 
-[![Linkedin: Bhumika Agarwal](https://img.shields.io/badge/-shivambandral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhumika-aga/)](https://www.linkedin.com/in/bhumika-aga/)
+[![Linkedin: Bhumika Agarwal](https://img.shields.io/badge/-bhumika-aga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhumika-aga/)](https://www.linkedin.com/in/bhumika-aga/)
 [![GitHub Bhumika Agarwal](https://img.shields.io/github/followers/bhumika-aga?label=follow&style=social)](https://github.com/bhumika-aga)
