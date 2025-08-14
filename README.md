@@ -1,16 +1,58 @@
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
+# ​ Hi, I'm Bhumika Agarwal
 
-<!-- <img src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" width="270" height = "220"> -->
+🚀 **Software Engineer II @ JPMorgan Chase & Co.**  
+Mumbai, India • Full-Stack Developer • Microservices Enthusiast  
+📫 bhumika.aga@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/bhumika-aga)
 
-Hey! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35px"> **Bhumika** this side! 😊
+---
 
-Out of the huge bundle of chaos that I am, I am also -
+## ​ Featured Repositories
 
-- An Undergraduate from <a href="https://www.upes.ac.in/"> UPES</a> in Bachelor of Technology in Computer Science Engineering.
-- Currently working as a Jr. Software Engineer trying to figure out a way to survive in this world of codes.
-- Working at Cognizant Technology Solutions - Full Stack
+### ​ [MovieApi](https://github.com/bhumika-aga/MovieApi)
+**Spring Boot + React + MongoDB**  
+A full-stack movie catalog application where users can browse and rate films.  
+- Backend REST APIs developed using **Spring Boot** and **MongoDB**.  
+- Frontend built with **React**, deployed via **Docker/Render**.  
+- Deployed live: [client.onrender.com](https://movieapiclient.onrender.com) & [server.onrender.com](https://movieapiserver.onrender.com).  
+- Learnt end-to-end integration, containerization, and deployment best practices.
 
-I am really excited to get to know you! 🤗
+---
 
-[![Linkedin: Bhumika Agarwal](https://img.shields.io/badge/-bhumikaagarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhumika-aga/)](https://www.linkedin.com/in/bhumika-aga/)
-[![GitHub Bhumika Agarwal](https://img.shields.io/github/followers/bhumika-aga?label=follow&style=social)](https://github.com/bhumika-aga)
+### ​ [DynamicPDFGenerator](https://github.com/bhumika-aga/DynamicPDFGenerator)
+**Spring Boot • REST API • Thymeleaf (or iText)**  
+Service to generate and download data-driven PDFs.  
+- Accepts structured JSON requests and generates reusable PDFs using Java template engines.  
+- Implements **caching**—re-download same PDF when input is unchanged.  
+- Includes **Swagger UI** and Postman-ready API for testing and documentation.
+
+---
+
+### ​ [Examportal-Application](https://github.com/bhumika-aga/Examportal-Application)  
+**Java Spring Boot • MySQL • Angular + JWT Auth**  
+An online exam platform enabling secure MCQ tests for teachers and students.  
+- Developed separate **Admin** and **User** portals for exam management and attempt workflows.  
+- Secured all endpoints with **JWT-based authentication**.  
+- Improved exam efficiency by **30%** compared to manual processes.
+
+---
+
+## ​ My Tech Stack
+
+| Backend                      | Frontend                  | Databases        | Deployment & DevOps         |
+|-----------------------------|---------------------------|------------------|-----------------------------|
+| Java 17+, Spring Boot, JWT | React 18+, Angular        | MongoDB, MySQL   | Docker, Docker Compose, Render |
+| Hibernate, Maven            | TypeScript, ES6+, HTML/CSS |                  | CI/CD, Swagger UI           |
+
+---
+
+## ​ GitHub Stats  
+![Bhumika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhumika-aga&show_icons=true&theme=tokyonight)
+
+---
+
+## ​ Let’s Connect  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhumika-aga) · 📧 bhumika.aga@gmail.com
+
+---
+
+⭐ *“Code is most often like solving a puzzle — it’s about seeing the patterns.”*
