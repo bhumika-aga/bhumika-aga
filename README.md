@@ -1,44 +1,98 @@
-# 👋 Hi, I'm Bhumika Agarwal  
+# 👋 Hi, I'm Bhumika Agarwal
 
-🚀 **Full-Stack Developer | Java Enthusiast | React & Spring Boot Specialist**  
-I build scalable, modern, and production-ready applications with clean architecture and robust design. Passionate about **microservices**, **API integrations**, and creating seamless **user experiences**.
+<div align="center">
 
----
+**Software Engineer II @ JP Morgan Chase & Co.**
 
-## 🔥 **Featured Projects**
+Building scalable backend services, interactive front-end applications, and cloud-based deployments.
 
-### 📦 [Mail-Order-Pharmacy](https://github.com/bhumika-aga/Mail-Order-Pharmacy)  
-MediFlow – A **comprehensive mail-order pharmacy platform** with **microservices architecture**, **Spring Boot backend**, and **React 18+ TypeScript frontend**.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhumika--portfolio-007AFF?style=for-the-badge&logo=react&logoColor=white)](https://bhumika-portfolio-zkq0.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-agarwal)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumikaagarwal2307@gmail.com)
 
-### 🏥 [Hospital-Management-System](https://github.com/bhumika-aga/Hospital-Management-System)  
-HealthSync – A **modern hospital management system** featuring patient records, treatment planning, insurance claim handling, and JWT-based security.  
-
-### 🎬 [MovieReviewApp](https://github.com/bhumika-aga/MovieReviewApp)  
-A **full-stack movie review platform** blending IMDb-like elegance with **React**, **TypeScript**, and robust backend services.  
-
-### 📚 [Examportal-Application](https://github.com/bhumika-aga/Examportal-Application)  
-A **secure online exam portal** with advanced assessment capabilities, built using **React** and **TypeScript**.  
-
-### 📝 [DynamicPDFGenerator](https://github.com/bhumika-aga/DynamicPDFGenerator)  
-Java-based tool for **dynamic PDF creation**, designed for flexible document generation workflows.  
-
-### 🌤 [WeatherInfoForPincode](https://github.com/bhumika-aga/WeatherInfoForPincode)  
-A **Java utility** to fetch and display weather details by **pincode**, leveraging real-time APIs.  
+</div>
 
 ---
 
-## 💡 **What I Do**
-✔ Full-stack development with **Spring Boot + React**  
-✔ API design & integrations (REST, SOAP)  
-✔ Scalable microservices architecture  
-✔ Database design & optimization (MySQL, MongoDB)  
+## 💼 About Me
+
+- 🏦 **Software Engineer II** at **JP Morgan Chase & Co.** (Oct 2024 - Present)
+- 💻 Previously **Junior Software Engineer** at **Cognizant** (2022-2024)
+- 🎓 **B.Tech in Computer Science** from UPES, Dehradun
+- 🌱 Currently exploring **Camunda** for workflow-driven service orchestration
+- 🚀 Passionate about building **production-ready systems** with clean architecture
 
 ---
 
-## 📫 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhumika_Agarwal-blue?logo=linkedin)](https://www.linkedin.com/in/bhumika-aga/)  
-[![GitHub](https://img.shields.io/badge/GitHub-bhumika--aga-black?logo=github)](https://github.com/bhumika-aga)  
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+### Database & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-⭐ **Check out my repositories and let's build something amazing together!**
+## 🔥 Featured Projects
+
+| Project              | Description                                                 | Tech Stack                           | Links                                                                                                              |
+| -------------------- | ----------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| 🏥 **HealthSync**    | Hospital management system with JWT auth, RBAC & dashboards | Java 17, Spring Boot, React, MySQL   | [Live](https://healthsync-portal.onrender.com) • [Code](https://github.com/bhumika-aga/Hospital-Management-System) |
+| 📦 **MediFlow**      | Mail-order pharmacy with microservices architecture         | Spring Boot, React, Docker           | [Live](https://mail-order-pharmacy.onrender.com) • [Code](https://github.com/bhumika-aga/Mail-Order-Pharmacy)      |
+| 🎬 **ReelCritic**    | Movie review platform with TMDb integration                 | Java 17, Spring Boot, MongoDB, React | [Live](https://reelcritic-movie-review.onrender.com) • [Code](https://github.com/bhumika-aga/MovieReviewApp)       |
+| 📚 **ExamPortal**    | Online examination system with auto-grading                 | Spring Boot, Angular, MySQL          | [Code](https://github.com/bhumika-aga/Examportal-Application)                                                      |
+| 📝 **PDF Generator** | Dynamic PDF creation with templates                         | Java, iText, Spring Boot             | [Code](https://github.com/bhumika-aga/DynamicPDFGenerator)                                                         |
+| 🌤 **Weather Info**  | Weather details by postal code                              | Java, OpenWeather API                | [Code](https://github.com/bhumika-aga/WeatherInfoForPincode)                                                       |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bhumika-aga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-aga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+---
+
+## 💡 What I Do
+
+- 🔧 Build **full-stack enhancements** for internal trading tools
+- 🔐 Implement **secure token-based authorization** and RBAC
+- ☁️ Set up **AWS infrastructure**: ECS clusters, Route 53, DNS
+- 🧪 Ensure **70%+ test coverage** with JUnit
+- 📈 Optimize systems for **performance and reliability**
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+I'm always open to discussing new opportunities, collaborations, or just having a tech chat!
+
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-007AFF?style=for-the-badge&logo=safari&logoColor=white)](https://bhumika-portfolio-zkq0.onrender.com)
+
+</div>
