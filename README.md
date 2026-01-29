@@ -7,8 +7,8 @@
 Building scalable backend services, interactive front-end applications, and cloud-based deployments.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bhumika--portfolio-007AFF?style=for-the-badge&logo=react&logoColor=white)](https://bhumika-portfolio-zkq0.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-agarwal)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumikaagarwal2307@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-aga)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumika.aga@gmail.com)
 
 </div>
 
@@ -71,17 +71,12 @@ Building scalable backend services, interactive front-end applications, and clou
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bhumika-aga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=79ff97" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bhumika-aga&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bhumika-aga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=79ff97" alt="GitHub Stats" height="180" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-aga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-aga&layout=compact&theme=default&hide_border=true&langs_count=8" />
+<a href="https://github.com/bhumika-aga">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhumika-aga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+</a>
+<a href="https://github.com/bhumika-aga">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-aga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-</picture>
+</a>
 
 </div>
 
