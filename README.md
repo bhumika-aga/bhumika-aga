@@ -7,8 +7,8 @@
 Building scalable backend services, interactive front-end applications, and cloud-based deployments.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bhumika--portfolio-007AFF?style=for-the-badge&logo=react&logoColor=white)](https://bhumika-portfolio-zkq0.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-agarwal)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumikaagarwal2307@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-aga)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumika.aga@gmail.com)
 
 </div>
 
