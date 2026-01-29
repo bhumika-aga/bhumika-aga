@@ -67,21 +67,6 @@ Building scalable backend services, interactive front-end applications, and clou
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/bhumika-aga">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhumika-aga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-</a>
-<a href="https://github.com/bhumika-aga">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-aga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-</a>
-
-</div>
-
----
-
 ## 💡 What I Do
 
 - 🔧 Build **full-stack enhancements** for internal trading tools
