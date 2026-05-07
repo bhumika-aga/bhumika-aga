@@ -1,89 +1,64 @@
-# 👋 Hi, I'm Bhumika Agarwal
+### Bhumika Agarwal
 
-<div align="center">
+`🚀 Software Engineer II @ JPMorgan Chase  ·  Mumbai, India`
 
-### 🚀 Software Engineer II @ JP Morgan Chase & Co
-
-Building scalable backend services, interactive front-end applications, and cloud-based deployments.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-bhumika--portfolio-007AFF?style=for-the-badge&logo=react&logoColor=white)](https://bhumika-portfolio-zkq0.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-aga)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumika.aga@gmail.com)
-
-</div>
+Backend-leaning full-stack engineer working on BFSI platforms — credit card disputes and bonds trading — focused on
+legacy modernization, distributed workflow orchestration, and event-driven microservice architectures.
 
 ---
 
-## 💼 About Me
+#### What I'm working on
 
-- 🏦 **Software Engineer II** at **JP Morgan Chase & Co.** (Oct 2024 - Present)
-- 💻 Previously **Junior Software Engineer** at **Cognizant** (2022-2024)
-- 🎓 **B.Tech in Computer Science** from UPES, Dehradun
-- 🌱 Currently exploring **Camunda** for workflow-driven service orchestration
-- 🚀 Passionate about building **production-ready systems** with clean architecture
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Material-UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-### Database & Cloud
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+- **At J.P. Morgan Chase & Co.** — Camunda 7 BPMN workflows and Java External Task Workers for the credit card dispute
+  platform; SOAP-to-REST modernization with Kafka SaaS as the async backbone; Blue-Green deployment pipelines on
+  regulated services; React-side bonds trading features and P1 incident response.
+- **On the side** — distributed systems experiments, full-stack platforms, and the occasional technical write-up.
 
 ---
 
-## 🔥 Featured Projects
+#### Stack
 
-| Project                   | Description                                                  | Tech Stack                                  | Links                                                                                                                                          |
-| ------------------------- | ------------------------------------------------------------ | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| ⚙️ **RegulatoryApproval** | BPMN workflow system with Camunda 7 for regulatory approvals | Java 17, Spring Boot 3, Camunda, PostgreSQL | [Live](https://regulatory-approval-system.onrender.com/camunda/app/cockpit/) • [Code](https://github.com/bhumika-aga/RegulatoryApprovalSystem) |
-| 📦 **MediFlow**           | Mail-order pharmacy with microservices architecture          | Spring Boot, React 18+, Docker              | [Live](https://member-portal-xyt4.onrender.com) • [Code](https://github.com/bhumika-aga/Mail-Order-Pharmacy)                                   |
-| 🏥 **HealthSync**         | Hospital management system with JWT auth & RBAC              | Java 17, Spring Boot, React, PostgreSQL     | [Live](https://healthsync-portal.onrender.com) • [Code](https://github.com/bhumika-aga/Hospital-Management-System)                             |
-| 🎬 **ReelCritic**         | Movie review platform with TMDb integration                  | Java 17, Spring Boot, MongoDB, React        | [Live](https://reelcriticapp.onrender.com) • [Code](https://github.com/bhumika-aga/MovieReviewApp)                                             |
-| 📚 **ExamPortal**         | Online examination system with auto-grading                  | Spring Boot, Angular, MySQL                 | [Live](https://examportal-app.onrender.com/) • [Code](https://github.com/bhumika-aga/Examportal-Application)                                                                                  |
-| 🔄 **Camunda POC**        | Workflow automation proof of concept                         | Java, Spring Boot, Camunda BPM              | [Code](https://github.com/bhumika-aga/Camunda-POC)                                                                                             |
-
----
-
-## 💡 What I Do
-
-- 🔧 Build **full-stack enhancements** for internal trading tools
-- 🔐 Implement **secure token-based authorization** and RBAC
-- ⚙️ Design **BPMN workflows** with Camunda for process automation
-- ☁️ Set up **AWS infrastructure**: ECS clusters, Route 53, DNS
-- 🧪 Ensure **70%+ test coverage** with JUnit
-- 📈 Optimize systems for **performance and reliability**
+```text
+Languages           Java  ·  TypeScript  ·  JavaScript  ·  SQL
+Backend             Spring Boot  ·  Spring Security  ·  Spring Data JPA  ·  Hibernate
+                    REST  ·  Microservices  ·  Camunda 7 (BPMN)  ·  JWT  ·  RBAC
+Frontend            React  ·  TypeScript  ·  Material-UI
+Data & Messaging    MySQL  ·  MongoDB  ·  Apache Kafka  ·  Event-Driven Architecture
+Cloud & DevOps      AWS (ECS, EC2, S3, Route 53)  ·  Docker  ·  Blue-Green Deployment
+                    IaC  ·  GitHub Actions  ·  Jenkins  ·  Maven
+Observability       Splunk  ·  Dynatrace
+Testing             JUnit 5  ·  Mockito
+```
 
 ---
 
-<div align="center">
+#### Pinned projects
 
-### 📫 Let's Connect
+**[Regulatory Approval System](https://github.com/bhumika-aga/RegulatoryApprovalSystem)**
+&nbsp;·&nbsp; [live](https://regulatory-approval-system.onrender.com/camunda/app/cockpit)
+> BPMN-based regulatory approval platform on Camunda 7 using the External Task Worker pattern. Five specialized
+> workers (risk-scoring, compliance, escalation, notification, completion) with SLA enforcement (8h–48h),
+> exponential-backoff retry, and 6-role RBAC synchronized between Spring Security and Camunda Identity Service.
+>
+> `Java 17` · `Spring Boot 3` · `Camunda 7` · `Spring Security` · `JWT` · `Docker`
 
-I'm always open to discussing new opportunities, collaborations, or just having a tech chat!
+**[UrbanNexus](https://github.com/bhumika-aga/UrbanNexus)** &nbsp;·&nbsp; [live](https://urbannexus.onrender.com/)
+> Multi-portal residential operations platform serving Resident, Technician, and SuperAdmin roles with isolated JWT
+> authentication. Transactional booking engine with automated technician matching, payment lifecycle orchestration, and
+> JPA `@PrePersist` hooks for tax and audit-field automation. Dual-mode H2/MySQL deployment.
+>
+> `Java 17` · `Spring Boot 3.5` · `React 19` · `TypeScript` · `MySQL` · `JWT` · `Docker`
 
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-007AFF?style=for-the-badge&logo=safari&logoColor=white)](https://bhumika-portfolio-zkq0.onrender.com)
+---
 
-</div>
+#### What I care about
+
+Clean service boundaries · observable systems · deployments that don't wake people up at 3 AM · code that survives a
+Monday morning.
+
+---
+
+#### Reach me
+
+[LinkedIn](https://www.linkedin.com/in/bhumika-aga/) &nbsp;·&nbsp; [Email](mailto:bhumika.aga@gmail.com)
+&nbsp;·&nbsp; [Portfolio](https://bhumika-portfolio-zkq0.onrender.com/)
